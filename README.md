@@ -2,7 +2,7 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/MetaMask/eth-phishing-detect.svg)](https://greenkeeper.io/)
 
-Utility for detecting phishing domains targeting Ethereum users.
+Utility for detecting  domains targeting Ethereum users.
 
 ### basic usage
 
